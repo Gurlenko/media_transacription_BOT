@@ -12,6 +12,8 @@ pip-log.txt
 *.log
 *.pot
 *.py[cod]
+.idea/
+
 
 # Docker
 tmp/
