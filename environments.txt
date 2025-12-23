@@ -1,0 +1,4 @@
+aiogram
+faster-whisper
+python-dotenv
+ffmpeg-python
