@@ -12,7 +12,7 @@
 docker run -d --name telegram-whisper-bot \
   --env-file .env \
   -v $(pwd)/tmp:/tmp/whisper_bot \
-  vadimgurlenko/telegram-whisper-bot:latest
+  gurlenko/telegram-whisper-bot:latest
 ```
 
 ---
